@@ -40,7 +40,7 @@ Je me forme aux métiers du développement logiciel et des applications web :
 
 ## 🎯 Objectif Professionnel
 
-Devenir **développeur d'applications** ou **développeur web full-stack**
+Devenir **ingénieur data**
 
 ---
 
