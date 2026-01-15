@@ -40,7 +40,7 @@ Je me forme aux métiers du développement logiciel et des applications web :
 
 ## 🎯 Objectif Professionnel
 
-Devenir **ingénieur data**
+Devenir **Data Engineer**
 
 ---
 
