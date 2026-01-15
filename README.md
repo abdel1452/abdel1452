@@ -47,7 +47,7 @@ Devenir **Data Engineer**
 ## 📫 Contact
 
 - 📧 Email : abdel.elidrissi25@gmail.com
-- 💼 LinkedIn : [Abdelmalek Elidrissi](https://www.linkedin.com/in/abdelmalek-elidrissi/)
+- 💼 LinkedIn : [Voir mon LinkedIn](https://www.linkedin.com/in/abdelmalek-elidrissi/)
 - 🌐 Portfolio : [Voir mon portfolio](https://abdel1452.github.io/Portfolio/)
 
 ---
