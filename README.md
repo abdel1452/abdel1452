@@ -46,18 +46,10 @@ Devenir **développeur d'applications** ou **développeur web full-stack**
 
 ## 📫 Contact
 
-- 📧 Email : abdelmalekelidrissi80@proton.me
+- 📧 Email : abdel.elidrissi25@gmail.com
 - 💼 LinkedIn : [Abdelmalek Elidrissi](https://www.linkedin.com/in/abdelmalek-elidrissi/)
 - 🌐 Portfolio : [Voir mon portfolio](https://abdel1452.github.io/portfolio/)
 
 ---
 
-## 📊 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdel1452&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdel1452&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-*"Le code est comme l'humour. Quand il faut l'expliquer, c'est mauvais signe."* - Cory House
